@@ -7,9 +7,10 @@
 - **Project contributors:** Frank Serdenia, Gaven Grantz, Jordan Bradshaw, Joseph Olympia, Kenneth Woo, Hongsen Yang
 
 
-## Clone project using Git
+## Clone project
 
-- git clone git@github.com:frankmaayn/S.P.I.E.L..git
+- **SSH:** git@github.com:frankmaayn/S.P.I.E.L..git
+- **HTTPS:** https://github.com/frankmaayn/S.P.I.E.L..git
 
 ## Documentation repository
 
