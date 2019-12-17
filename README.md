@@ -10,3 +10,7 @@
 ## Clone project using Git
 
 - git clone git@github.com:frankmaayn/S.P.I.E.L..git
+
+## Documentation repository
+
+- this repository contains instructions on how to use the program as well as who contributed 
